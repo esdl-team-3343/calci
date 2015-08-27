@@ -1,3 +1,5 @@
 #include<stdio.h>
+int a,b,c;
+cin>>a>>b;
 cout<<"addition is";
 c=a+b;
